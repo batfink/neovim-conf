@@ -17,4 +17,5 @@ A couple of steps are required to configure all the plugins:
 pip install --user neovim
 cd ~/.config/nvim/plugged/YouCompleteMe
 ./install.py --clang-completer
+sudo dnf install the_silver_searcher
 ```
